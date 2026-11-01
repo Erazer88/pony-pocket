@@ -5,6 +5,8 @@ de combat, on ouvre des boosters pour compléter sa collection. Copie du jeu
 [One Piece Pocket](https://github.com/Erazer88/one-piece-pocket) avec les cartes du jeu
 de cartes My Little Pony (Enterplay).
 
+Jouer : **https://erazer88.github.io/pony-pocket/** (GitHub Pages, branche `main`).
+
 Prototype web sans framework ni dépendance : ouvrir `index.html` dans un navigateur.
 
 ## Jouer
